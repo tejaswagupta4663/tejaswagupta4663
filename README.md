@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Tejaswa Gupta  
+🚀 DevOps & Cloud Enthusiast | Exploring Docker, Kubernetes, Terraform, Jenkins & AWS  
 
-<!--
-**tejaswagupta4663/tejaswagupta4663** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 💡 About Me  
+- 🌱 Currently learning **AWS, Linux, and CI/CD pipelines**  
+- 🧠 Passionate about **Cloud Infrastructure & Automation**  
+- 💪 Building hands-on DevOps projects to strengthen my skills  
+- 💬 Open to collaborating on DevOps and Cloud projects  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧰 Tech Stack  
+🐳 Docker | ☸️ Kubernetes | ☁️ AWS | ⚙️ Jenkins | 🧩 Terraform | 🐧 Linux | 🔧 Git | 🔄 CI/CD  
+
+---
+
+### 📫 Connect With Me  
+🔗 [LinkedIn](https://www.linkedin.com/in/tejaswa-gupta)  
+📧 [Email Me](mailto:tejaswagupta4663@gmail.com)  
+
+---
+
+⭐ *“Continuous learning is the key to becoming a true DevOps engineer.”*  
+
